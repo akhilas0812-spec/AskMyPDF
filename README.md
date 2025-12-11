@@ -1,7 +1,7 @@
 # AskMyPDF
 
 A minimal, fast, and accurate PDF-Question Answering application built with Streamlit and OpenAI.
-The system extracts text from uploaded PDFs, chunks it, embeds it, and answers questions strictly based on the document — without hallucinations.
+The system extracts text from uploaded PDFs, chunks it, embeds it, and answers questions strictly based on the document without any hallucinations.
 
 ## Features
 
