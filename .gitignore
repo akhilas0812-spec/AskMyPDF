@@ -1,0 +1,24 @@
+# Ignore virtual environment
+.venv/
+venv/
+env/
+
+# Ignore environment keys
+.env
+
+# Ignore chunk data if generated
+data/chunks.json
+
+# Ignore uploaded PDFs
+uploaded.pdf
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore VSCode
+.vscode/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
